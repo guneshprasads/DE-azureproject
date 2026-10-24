@@ -1,0 +1,15 @@
+{
+	"name": "defactoryazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d2efdde-ae26-437c-b9f1-c806a1794105",
+		"tenantId": "216844dc-9c90-4949-8e4b-58ea2d2c3dbe"
+	}
+}
